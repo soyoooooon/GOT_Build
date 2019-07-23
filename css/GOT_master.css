@@ -126,3 +126,9 @@ video {
 	border: thin solid #949393;
 	display: block;
 }
+
+.house-info
+{
+color:white;
+font-size: 15px;
+}
