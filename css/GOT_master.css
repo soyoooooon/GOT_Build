@@ -122,7 +122,24 @@ color: white;
 
 video {
 	width: 85%;
-	margin: 10% auto 10% auto;
+	margin: 0 auto 10% auto;
 	border: thin solid #949393;
 	display: block;
 }
+
+.house-info
+{
+color:white;
+font-size: 15px;
+margin-top: 10px;
+}
+
+.video-controls i
+{
+color: white;
+font-size: 2em;
+}
+
+.video-controls i:hover
+{cursor: pointer;}
+
